@@ -1,0 +1,47 @@
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Roger-Pc\Desktop\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\Senati\TRABAJO FINAL\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\Nueva carpeta\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\Trabajo FinalN-Capas\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\TrabajoFinalNCapas7-SIPLACAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\neesg\OneDrive\Escritorio\TRABAJO FINAL\TrabajoFinalNCapas7-SPCAT\ACAT\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\ACAT\CapaEntidad\obj\Debug\CapaEntidad.pdb

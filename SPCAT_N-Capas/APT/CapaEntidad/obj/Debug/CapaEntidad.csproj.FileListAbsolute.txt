@@ -1,0 +1,15 @@
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Downloads\APT\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Downloads\APT\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Downloads\APT\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\APT\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Esteban\Downloads\APT\CapaEntidad\obj\Debug\CapaEntidad.pdb

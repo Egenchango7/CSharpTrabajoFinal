@@ -1,0 +1,121 @@
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.AdministrarCP.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.TrabajadorCP.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.PlanillaCP.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroCP.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.LoginCP.resources
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.AdministrarCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.BoletaCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.LoginCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.PlanillaCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.TrabajadorCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.EvaluacionCP.resources
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaPresentacion\obj\Debug\CapaPresentacion.NivelCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.AdministrarCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.BoletaCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.EvaluacionCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.LoginCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.NivelCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.PlanillaCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.TrabajadorCP.resources
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Downloads\APT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.AdministrarCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.BoletaCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.EvaluacionCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.LoginCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.NivelCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.PlanillaCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.TrabajadorCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.SueldoCP.resources
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.MessageCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.AdministrarCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.BoletaCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.EvaluacionCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.LoginCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.MessageCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.NivelCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.PlanillaCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.RegistroCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.SueldoCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.TrabajadorCP.resources
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

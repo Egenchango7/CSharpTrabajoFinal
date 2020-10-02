@@ -1,0 +1,43 @@
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Esteban\Downloads\APT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Downloads\APT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Downloads\APT\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Downloads\APT\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Downloads\APT\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\APT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\APT\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Esteban\Downloads\APT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Esteban\Downloads\APT\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaDatos\obj\Debug\CapaDatos.pdb

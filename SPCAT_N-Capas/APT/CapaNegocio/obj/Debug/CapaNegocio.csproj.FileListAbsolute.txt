@@ -1,0 +1,53 @@
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\VISUAL STUDIO\slnApt\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\TRABAJO FINAL\SPCAT_N-Capas\slnApt\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Downloads\APT\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Downloads\APT\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\APT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\APT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Esteban\Downloads\APT\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Esteban\Downloads\APT\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Esteban\Desktop\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\EXPRESS\Downloads\Nueva carpeta\SPCAT_N-Capas\APT\CapaNegocio\obj\Debug\CapaNegocio.pdb
